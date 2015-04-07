@@ -136,7 +136,7 @@
      * $(this.context) element and all the callbacks triggered on the elements which match the
      * selectors as the event bubbles up through the DOM.
      * 
-     * See http://api.jquery.com/on/ for more information.
+     * See http://api.jquery.com/on/#direct-and-delegated-events for more information.
      */
     $(this.context)
     // Submit event on the form
